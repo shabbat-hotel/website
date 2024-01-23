@@ -85,7 +85,7 @@
       "enabled": true
     },
     "favicon": false,
-    "mbrsiteDomain": "ha4h0dwuad",
+    "mbrsiteDomain": "qd11fs2ixg",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -102,7 +102,7 @@
     },
     "site_lang": "es",
     "global_header_custom": "    <link rel=\"stylesheet\" href=\"https://app.lobbypms.com/public/css/widget/lobby-date-rage-selector.min.css?v=OZL78kcOzL96sY6W870pK3RhF\">\n   <script src=\"https://app.lobbypms.com/public/js/widget/lobby-date-rage-selector.min.js?v=FlsrBsHAGMDM0aMPOMJiT9nol\"></script>\n   <script>\n    var ldrs = new LobbyDateRangeSelector({\n      apiBaseUrl: 'https://api.lobbypms.com/api/ldrs/',\n      token: '0HnmSVEgoYvPHSEaoMFHTUCQZVJdWu57HkHSXM0eEt4AG34TVWDMghBMgSLS',\n      lang: 'es',\n    });\n   </script> ",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
