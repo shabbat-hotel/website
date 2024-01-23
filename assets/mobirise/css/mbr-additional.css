@@ -921,9 +921,9 @@ body {
 }
 /* WA Button */
 .floating-wpp {
-  z-index: 1101 !important;   
+  z-index: 1101 !important;
 }
-@media (max-width: 992px) {
+@media (min-width: 992px) {
   .floating-wpp {
     bottom: 82px;
   }
@@ -3430,9 +3430,9 @@ body {
 }
 /* WA Button */
 .floating-wpp {
-  z-index: 1101 !important;   
+  z-index: 1101 !important;
 }
-@media (max-width: 992px) {
+@media (min-width: 992px) {
   .floating-wpp {
     bottom: 82px;
   }
@@ -4909,9 +4909,9 @@ body {
 }
 /* WA Button */
 .floating-wpp {
-  z-index: 1101 !important;   
+  z-index: 1101 !important;
 }
-@media (max-width: 992px) {
+@media (min-width: 992px) {
   .floating-wpp {
     bottom: 82px;
   }
