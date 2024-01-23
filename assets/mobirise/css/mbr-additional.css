@@ -925,7 +925,7 @@ body {
 }
 @media (max-width: 767px) {
   .floating-wpp {
-    bottom: 82px;
+    bottom: 82px !important;
   }
 }body {
   font-family: Roboto;
@@ -3434,7 +3434,7 @@ body {
 }
 @media (max-width: 767px) {
   .floating-wpp {
-    bottom: 82px;
+    bottom: 82px !important;
   }
 }.cid-u280QeHfut .nav-item:focus,
 .cid-u280QeHfut .nav-link:focus {
@@ -4913,7 +4913,7 @@ body {
 }
 @media (max-width: 767px) {
   .floating-wpp {
-    bottom: 82px;
+    bottom: 82px !important;
   }
 }.cid-u286VfKbNe .nav-item:focus,
 .cid-u286VfKbNe .nav-link:focus {
