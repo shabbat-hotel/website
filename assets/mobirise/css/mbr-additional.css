@@ -931,14 +931,14 @@ body {
   font-family: Roboto;
 }
 .display-1 {
-  font-family: 'Gilda Display', serif;
+  font-family: 'SaolDisplay-Regular';
   font-size: 4.5rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 7.2rem;
 }
 .display-2 {
-  font-family: 'Gilda Display', serif;
+  font-family: 'SaolDisplay-Regular';
   font-size: 2.1rem;
 }
 .display-2 > .mbr-iconfont {
@@ -952,7 +952,7 @@ body {
   font-size: 1.2rem;
 }
 .display-5 {
-  font-family: 'Gilda Display', serif;
+  font-family: 'SaolDisplay-Regular';
   font-size: 1.1rem;
 }
 .display-5 > .mbr-iconfont {
