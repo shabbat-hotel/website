@@ -923,7 +923,7 @@ body {
 .floating-wpp {
   z-index: 1101 !important;
 }
-@media (min-width: 992px) {
+@media (max-width: 767px) {
   .floating-wpp {
     bottom: 82px;
   }
@@ -3432,7 +3432,7 @@ body {
 .floating-wpp {
   z-index: 1101 !important;
 }
-@media (min-width: 992px) {
+@media (max-width: 767px) {
   .floating-wpp {
     bottom: 82px;
   }
@@ -4911,7 +4911,7 @@ body {
 .floating-wpp {
   z-index: 1101 !important;
 }
-@media (min-width: 992px) {
+@media (max-width: 767px) {
   .floating-wpp {
     bottom: 82px;
   }
