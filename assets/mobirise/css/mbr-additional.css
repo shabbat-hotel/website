@@ -916,6 +916,10 @@ body {
   font-weight: 100 !important;
 }
 
+.mbr-normal {
+  font-weight: 300 !important;
+}
+
 body {
   color: #333333;
 }
@@ -3398,6 +3402,10 @@ body {
   font-weight: 100 !important;
 }
 
+.mbr-normal {
+  font-weight: 300 !important;
+}
+
 body {
   color: #333333;
 }
@@ -5428,6 +5436,10 @@ body {
   font-weight: 100 !important;
 }
 
+.mbr-normal {
+  font-weight: 300 !important;
+}
+
 body {
   color: #333333;
 }
@@ -7004,6 +7016,10 @@ body {
   font-weight: 100 !important;
 }
 
+.mbr-normal {
+  font-weight: 300 !important;
+}
+
 body {
   color: #333333;
 }
@@ -8483,6 +8499,10 @@ body {
 
 .mbr-lighter {
   font-weight: 100 !important;
+}
+
+.mbr-normal {
+  font-weight: 300 !important;
 }
 
 body {
