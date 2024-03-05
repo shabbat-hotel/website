@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "gastronomia-shabbat.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "hotelm4",
       "title": "HotelM4",
@@ -102,7 +102,7 @@
     },
     "site_lang": "es",
     "global_header_custom": "    <link rel=\"stylesheet\" href=\"https://app.lobbypms.com/public/css/widget/lobby-date-rage-selector.min.css?v=OZL78kcOzL96sY6W870pK3RhF\">\n   <script src=\"https://app.lobbypms.com/public/js/widget/lobby-date-rage-selector.min.js?v=FlsrBsHAGMDM0aMPOMJiT9nol\"></script>\n   <script>\n    var ldrs = new LobbyDateRangeSelector({\n      apiBaseUrl: 'https://api.lobbypms.com/api/ldrs/',\n      token: '0HnmSVEgoYvPHSEaoMFHTUCQZVJdWu57HkHSXM0eEt4AG34TVWDMghBMgSLS',\n      lang: 'es',\n    });\n   </script> ",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
@@ -3695,7 +3695,7 @@
           },
           "_name": "content1",
           "_sourceTheme": "hotelm4",
-          "_customHTML": "<section class=\"mbr-section content1 hotelm4_content1\" group=\"Content\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\t\t<input type=\"range\" inline title=\"Text Width\" name=\"textWidth\" min=\"20\" max=\"100\" step=\"1\" value=\"67\">\n\t\t<input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"40\" condition=\"showLines\">\n\t\t<hr>\n\t\t<input type=\"checkbox\" title=\"Show Lines\" name=\"showLines\" checked>\n\t\t<input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#c19b76\" condition=\"showLines\">\n\t\t<input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"container\">\n\t\t<div class=\"row justify-content-center\">\n\t\t\t<div class=\"inner-container\" mbr-style=\"{'width': textWidth + '%'}\">\n\t\t\t\t<hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\" mbr-if=\"showLines\">\n\t\t\t\t<p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\"><i>– Te invitamos a desconectarte de los afanes al comer, te dediques unos minutos a disfrutar lentamente en pequeños bocados los sabores de nuestro menú.&nbsp;</i><i>Incluso si te parece, puedes solicitar diferentes entradas y platos y compartir con tu pareja, familia o amigos...</i><br><i>Nosotros lo hicimos en las pruebas con los chefs y pasamos una velada inolvidable. –</i></p>\n\t\t\t\t<hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\" mbr-if=\"showLines\">\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content1 hotelm4_content1\" group=\"Content\">\n\n\t<mbr-parameters>\n\t\t<!-- Block parameters controls (Blue \"Gear\" panel) -->\n\t\t<header>Size</header>\n\t\t<input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\t\t<input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\t\t<input type=\"range\" inline title=\"Text Width\" name=\"textWidth\" min=\"20\" max=\"100\" step=\"1\" value=\"67\">\n\t\t<input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"40\" condition=\"showLines\">\n\t\t<hr>\n\t\t<input type=\"checkbox\" title=\"Show Lines\" name=\"showLines\" checked>\n\t\t<input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#c19b76\" condition=\"showLines\">\n\t\t<input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\t\t<!-- End block parameters -->\n\t</mbr-parameters>\n\n\t<div class=\"container\">\n\t\t<div class=\"row justify-content-center\">\n\t\t\t<div class=\"inner-container\" mbr-style=\"{'width': textWidth + '%'}\">\n\t\t\t\t<hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\" mbr-if=\"showLines\">\n\t\t\t\t<p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\"><i>– Te invitamos a desconectarte de los afanes al comer, te dediques unos minutos a disfrutar lentamente en pequeños bocados los sabores de nuestro menú.&nbsp;</i><i>Incluso si te parece, puedes solicitar diferentes entradas y platos y compartir con tu pareja, familia o amigos...</i><br><i>Nosotros lo hicimos en las pruebas con los chefs y pasamos una velada inolvidable. –</i><br><br><i>#ExperienciaSHABBAT</i></p>\n\t\t\t\t<hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\" mbr-if=\"showLines\">\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section>",
           "_cid": "u6atxERoCI",
           "_protectedParams": [],
           "_global": false,
