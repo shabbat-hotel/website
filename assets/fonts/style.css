@@ -3,3 +3,8 @@
    font-display: swap;
    src: url('SaolDisplay-Regular/font.ttf');
 }
+@font-face {
+   font-family: 'SaolDisplay-LightItalic';
+   font-display: swap;
+   src: url('SaolDisplay-LightItalic/font.ttf');
+}
